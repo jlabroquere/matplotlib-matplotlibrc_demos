@@ -30,6 +30,10 @@ Some included styles are:
 
 .. image:: screenshots/ggplotish.png
 
+- lemimi
+
+.. image:: screenshots/lemimi.png
+
 - probpro
 
 .. image:: screenshots/probpro.png
